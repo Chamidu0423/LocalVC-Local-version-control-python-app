@@ -12,7 +12,11 @@ pip install customtkinter Pillow
 ```
 
 🚀 **Installation and Usage**
-Clone or download this repository to your local machine.Navigate to the project directory in your terminal or command prompt.Run the script:python backup_tool.py
+Clone or download this repository to your local machine.Navigate to the project directory in your terminal or command prompt.Run the 
+```
+script
+python backup_tool.py
+```
 The application window will open, and you can then select your folders and start the backup process.
 
 ---
