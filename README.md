@@ -1,4 +1,5 @@
 #Backup Tool
+---
 This is a simple yet powerful desktop application for backing up files, built with Python and customtkinter. It's designed to be a fast and reliable solution for creating backup copies of important project folders.
 ✨ **Features**
 Graphical User Interface (GUI): A user-friendly interface to easily select source and destination folders.Efficient Copying: Utilizes system-specific commands for optimal performance:Windows: Employs robocopy for multithreaded and robust file synchronization.Other OS (e.g., macOS, Linux): Uses rsync for efficient and fast transfers.Progress Bar: Displays the progress of the backup process in real-time.Custom Naming: Allows for custom backup folder names or automatic naming based on the current date and time.Configuration: Saves user settings (like default naming preference) in a config.json file.
