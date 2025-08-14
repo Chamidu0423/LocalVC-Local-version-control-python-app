@@ -1,4 +1,4 @@
-#Backup Tool
+#Local VC
 ---
 This is a simple yet powerful desktop application for backing up files, built with Python and customtkinter. It's designed to be a fast and reliable solution for creating backup copies of important project folders.
 
