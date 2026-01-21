@@ -25,6 +25,6 @@ The application window will open, and you can then select your folders and start
 ---
 📄 **License**
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL License.
 
 ---
